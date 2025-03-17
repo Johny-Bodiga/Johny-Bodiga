@@ -16,9 +16,9 @@
 
 ## 📈 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Bodiga_Johny/) &nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/bodigajohnygoud) &nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-34A853?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/bodigajoa0g5/) &nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Bodiga_Johny/) &nbsp;&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/bodigajohnygoud) &nbsp;&nbsp;
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-34A853?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/bodigajoa0g5/) &nbsp;&nbsp;
 [![InterviewBit](https://img.shields.io/badge/InterviewBit-F7E01C?style=flat-square&logo=interviewbit&logoColor=black)](https://www.interviewbit.com/profile/bodiga-johny-goud/)
 
 <h2 align="left">I code with</h2>
